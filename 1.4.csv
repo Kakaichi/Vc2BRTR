@@ -1,0 +1,14 @@
+#;;;;;;;;;;;;;x
+badboy;Infamia;Infamie;Infamie;;Infamia;;;;;;;;;;;;;x
+EVTNAME60150;O fim do voto feminino;;;;;;;;;;;;;x
+EVTDESC60150;Com a recente reversao das reformas de voto, o sexo feminino e mais uma vez negado ao voto.;;;;;;;;;;;;;x
+EVTOPTA60150;Voltem para a cozinha!;;;;;;;;;;;;;x
+EVTNAME31102;Voo de Istanbul;;;;;;;;;;;;;x
+EVTDESC31102;A nossa posicao em Istambul nao e mais segura. Devemos mudar o nosso governo para um lugar mais seguro.;;;;;;;;;;;;;x
+EVTOPTA31102;Temos estado?por fim orientado na Europa...;;;;;;;;;;;;;x
+OL_REBEL_OCCUPATIONS;Ocupacoes Rebeldes;;;;;;;;;;;;;x
+OL_REBEL_OCCUPATIONS_TOOLTIP;Nossa provincia de 即$PROVINCE$劬 esta sendo ocupada por rebeldes!;;;;;;;;;;;;;x
+OL_VIEW_REBEL_OCCUPATIONS;Alterar a visualizacao da 即Rebel Occupations劬;;;;;;;;;;;;;x
+POP_MIL_CHANGE_REBEL;Essa populacao esta vivendo em 即$PROV$劬 que esta sobre o controle dos 刪Rebels劬.\nE a mudanca de militancia nao pode ser estimada.;;;;;;;;;;;;;x
+POP_CON_CHANGE_REBEL;Essa populacao esta vivendo em 即$PROV$劬 que esta sobre o controle dos 刪Rebels劬.\nE a mudanca de consciencia nao pode ser estimada.;;;;;;;;;;;;;x
+PROJECT_STATE_NAME_DESC;Planejando construir em 即$PROV$劬.;;;;;;;;;;;;;x
